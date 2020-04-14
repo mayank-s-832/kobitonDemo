@@ -1,0 +1,25 @@
+[
+  {
+    "numberOfThreads": "1"
+  },
+  {
+    "Thread_1": {
+	"executionOn":"browser",
+    "testDriverFilePath":"/TestData/TestDriver.xlsx"
+    }
+   },
+   {
+    "Thread_2": {
+
+    "executionOn":"app",
+    "testDriverFilePath":"/TestData/TestDriver.xlsx"
+    }
+   },
+   {
+    "Thread_3": {
+
+    "executionOn":"app",
+    "testDriverFilePath":"/TestData/TestDriver.xlsx"
+   }
+   }
+ ]
